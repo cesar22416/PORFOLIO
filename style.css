@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Gugi&display=swap');
+*{
+font-family: 'Gugi', sans-serif;
+font-family: 'DotGothic16', sans-serif;
+
+}
+.all{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.navmader{
+    margin: auto;
+    padding: 0;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: none;
+
+}
+
+nav{
+    width: 100%;
+    background: none;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    background: none;
+}
+.card{
+    background: none;
+}
+.cardcontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 1000px;
+    margin: auto;
+    padding: 0;
+}
