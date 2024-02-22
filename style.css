@@ -12,6 +12,10 @@ font-family: "Protest Riot", sans-serif;
     margin: 0;
     padding: auto;
 }
+.nav{
+    position: fixed;
+}
+
 
 .navmader{
     margin: auto;
